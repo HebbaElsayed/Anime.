@@ -15,7 +15,7 @@ header{
     align-items: center;
     padding: 10px 200px ;
     
-  background: url(anime2.jpg) no-repeat;
+  background: url("imgs/anime2.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -145,7 +145,7 @@ nav ul li a {
     flex-direction: row;
     flex-wrap: wrap;
         
-  background: url(romantic.jpg) no-repeat;
+  background: url("imgs/romantic.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -192,7 +192,7 @@ nav ul li a {
 .projects {
     background-color:white;
        
-  background: url(romantic.jpg) no-repeat;
+  background: url("imgs/romantic.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -257,7 +257,7 @@ nav ul li a {
 .cardscontact {
 
        
-  background: url(romantic.jpg) no-repeat;
+  background: url("imgs/romantic.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -270,7 +270,7 @@ nav ul li a {
 
 .cardcontact { 
 
-    background: url(romantic.jpg) no-repeat;
+    background: url("imgs/romantic.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -283,7 +283,7 @@ nav ul li a {
   
 .cardscontacts { 
 
-    background: url(romantic.jpg) no-repeat;
+    background: url("imgs/romantic.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
